@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases a series of projects developed as part of an Operating Systems course at KAIST, using the xv6 teaching operating system. Each project focuses on enhancing or extending various components of xv6, providing hands-on experience with operating system concepts.
+This repository showcases a series of projects developed as part of an Operating Systems course at KAIST, using the xv6 operating system. Each project focuses on enhancing or extending various components of xv6, providing hands-on experience with operating system concepts.
 
 ## Projects
 
